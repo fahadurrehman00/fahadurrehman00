@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo" />
 </div>
-<h2>Github highlights</h2>
+<!-- <h2>Github highlights</h2>
 <div align="left">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadurrehman00&" alt="fahadurrehman00" /></p>
-</div>
+</div> -->
