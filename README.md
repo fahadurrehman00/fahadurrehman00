@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey 👋 What's up?</h1>
-  <p>My name is Fahad Ur Rehman and I'm a Frontend Developer from Pakistan😊</p>
+  <p>My name is Fahad Ur Rehman and I'm a Frontend Developer😊</p>
   <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2g5OXdmOWY5MjIxcWI2czc2bDdhdXhjbG05c3c1aWYwdDRnY3hxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
